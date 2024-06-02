@@ -1,24 +1,22 @@
 ## Hi there 👋
 
-<p align="center">
-  <img src="./logo/logo_transparent.png" alt="Image" width="50%" height="50%"/>
-</p>
+## 生信鱼与渔
 
-## who I am
+### who I am
 
 我们是生信鱼与渔
 
 
-## what can I do
+### what can I do
 我们科普一些生信和科研相关信息；并且提供相应的服务
 
 
-## What is our purpose?
+### What is our purpose?
 
 我们既能把生信鱼提供给您，也能教您如何成为一名生信渔夫。
 
 
-## personal information
+### personal information
 
 - QQ: 3570363589
 
@@ -28,7 +26,7 @@
 
 - 微信公众号：
 
-## more information
+### more information
 
 详细信息：https://biofisher.github.io/
 
