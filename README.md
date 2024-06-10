@@ -22,11 +22,14 @@
 
 - email: 3570363589@qq.com
 
-- 小红书：
+- 小红书：生信鱼与渔
 
-- 微信公众号：
+<p align="center">
+  <img src="/logo/redbook.jpg" alt="redbook" width="300" height="300">
+</p>
 
-### more information
 
-详细信息：https://biofisher.github.io/
+### bio server
+
+- [文献下载](https://biofisher.github.io/server/paper_download/)
 
